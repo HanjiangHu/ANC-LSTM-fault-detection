@@ -1,5 +1,5 @@
 # ANC-LSTM-fault-detection
-<html>The source code, pretrained models and dataset are released here for our IROS 2021 submission of "Soft Manipulator Fault Detection and Identification Using ANC-based LSTM" by Haoyuan Gu<sup>&#8224</sup>, <a href="https://hanjianghu.github.io/">Hanjiang Hu<sup>&#8224</sup></a>, Hesheng Wang* and Weidong Chen.
+<html>The source code, pretrained models and dataset are released here for our IROS 2021 paper of "Soft Manipulator Fault Detection and Identification Using ANC-based LSTM" by Haoyuan Gu<sup>&#8224</sup>, <a href="https://hanjianghu.github.io/">Hanjiang Hu<sup>&#8224</sup></a>, Hesheng Wang* and Weidong Chen.
 </html>
 
 [![Soft Manipulator Fault Detection and Identification Using ANC-based LSTM](https://res.cloudinary.com/marcomontalbano/image/upload/v1615367674/video_to_markdown/images/youtube--w3zSbYWDjms-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/w3zSbYWDjms "Soft Manipulator Fault Detection and Identification Using ANC-based LSTM")
@@ -45,4 +45,4 @@ To validate the pretrained ANC-LSTM or vanilla LSTM model at `XXX` iteration on 
 For the real-time implementation in C/C++, get the input vector from the system at the end of each control period first. Then use `python.h` to use the functions in the `validate.py` given the real-time input to infer the real-time sequential classification results with confidence.
 
 ## More
-Our paper will be available soon and welcome to our [lab](http://irmv.sjtu.edu.cn/) if you are interested in conducting more research with soft manipulator.
+Our paper will be available soon and welcome to our [lab](https://irmv.sjtu.edu.cn/) if you are interested in conducting more research with soft manipulator.
