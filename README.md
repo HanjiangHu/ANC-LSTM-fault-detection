@@ -1,5 +1,5 @@
 # ANC-LSTM-fault-detection
-<html>The source code, pretrained models and dataset are released here for our IROS 2021 paper of "Soft Manipulator Fault Detection and Identification Using ANC-based LSTM" by Haoyuan Gu<sup>&#8224</sup>, <a href="https://hanjianghu.github.io/">Hanjiang Hu<sup>&#8224</sup></a>, Hesheng Wang* and Weidong Chen.
+<html>The source code, pretrained models and dataset are released here for our <a href="https://ieeexplore.ieee.org/abstract/document/9636868" >IROS 2021 paper </a> of "Soft Manipulator Fault Detection and Identification Using ANC-based LSTM" by Haoyuan Gu<sup>&#8224</sup>, <a href="https://hanjianghu.github.io/">Hanjiang Hu<sup>&#8224</sup></a>, Hesheng Wang* and Weidong Chen.
 </html>
 
 [![Soft Manipulator Fault Detection and Identification Using ANC-based LSTM](https://res.cloudinary.com/marcomontalbano/image/upload/v1615367674/video_to_markdown/images/youtube--w3zSbYWDjms-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/w3zSbYWDjms "Soft Manipulator Fault Detection and Identification Using ANC-based LSTM")
